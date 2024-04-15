@@ -11,4 +11,6 @@ Topic analysis [660:]).
 - In file test_lemma_pos_sent given preprocess data from the original test.
 - In file df_test_new_roberta given sentiment analysis on test data
 - In file test_topic_modeling given preprocess data with the use of Berttopic
-- If u need preprocessed data for train they can be downloaded on this [link](https://drive.google.com/drive/folders/1jsLW6FrrNp5eyZK3Vqs4Grjp9xz4cEj-?usp=sharing) 
+- If u need preprocessed data for train they can be downloaded on this [link](https://drive.google.com/drive/folders/1jsLW6FrrNp5eyZK3Vqs4Grjp9xz4cEj-?usp=sharing)
+For 9 CP:
+- In file concat_train_test_1700_rewards a collection of randomly selected 850 sentences for the  train set and 850 sentences for the test set with predictions and reward 
